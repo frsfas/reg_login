@@ -1,0 +1,21 @@
+Bootstrap
+
+css
+* external linked
+<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+* embedded
+<style>
+    .somthing{
+        color:red
+    }
+</style>
+* inline
+<h1 style="color:red"></h1>
+
+
+cdn -- ?
+<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+ 
+  d-block=break
+
+  CDN - Content delivery network

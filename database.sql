@@ -1,0 +1,1 @@
+create table users(id int(11)not null auto_increment,name varchar(50) not null,age int(3) not null,location varchar(100)not null,mobile_no bigint(10)not null,primary key(id));
